@@ -9,4 +9,10 @@ requestURI
 RequestMapping
 ResponseMapping
 
+There are four types of request :
+GetMapping
+PostMapping
+PutMapping
+DeleteMapping
+
 Finally completed.
